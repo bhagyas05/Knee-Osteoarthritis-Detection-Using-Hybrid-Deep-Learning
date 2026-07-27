@@ -49,9 +49,7 @@ The application is developed using **Python**, **Flask**, and **TensorFlow**, pr
 
 ---
 
-## 📂 Project Structure
-
-```
+# Project Structure
 Knee-Osteoarthritis-Detection
 │
 ├── app.py
@@ -68,9 +66,9 @@ Knee-Osteoarthritis-Detection
 └── README.md
 ```
 
----
+ 
 
-## ⚙️ Installation
+# Installation
 
 Clone the repository
 
@@ -96,44 +94,36 @@ Run the application
 python app.py
 ```
 
----
-
-## 📊 Model Performance
+# Model Performance
 
 - Hybrid Deep Learning Architecture
 - VGG19 Feature Extraction
 - Vision Transformer (ViT)
 - Accuracy Graph
 - Loss Graph
-- Confusion Matrix
-
----
+- Confusion Matri
 
 ## 📸 Application Screenshots
 
-### Home Page
+## Home Page
 
 (Add Screenshot Here)
 
-### Upload Image
+## Upload Image
 
 (Add Screenshot Here)
 
-### Prediction Result
+## Prediction Result
 
 (Add Screenshot Here)
 
----
-
-## 📈 Future Improvements
+## Future Improvements
 
 - Explainable AI (Grad-CAM)
 - Multi-Class Severity Detection
 - Mobile Application
 - Cloud Deployment
 - Doctor Dashboard
-
----
 
 ## 👩‍💻 Author
 
@@ -147,6 +137,6 @@ Artificial Intelligence Enthusiast
 
 ---
 
-## ⭐ Support
+## Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
