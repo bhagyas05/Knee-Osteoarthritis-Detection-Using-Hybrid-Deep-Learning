@@ -1,0 +1,7 @@
+flask
+tensorflow
+numpy
+matplotlib
+pillow
+opencv-python
+werkzeug
